@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AAB",
+    "ACB",
+    "ABB"
+  ],
+  "key": {
+    "A": {
+      "item": "funny:lemon_iced_tea_essence_ball"
+    },
+    "B": {
+      "item": "funny:lemon_iced_tea_soul_ball"
+    },
+    "C": {
+      "item": "funny:syrup_bucket"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "funny:lemon_iced_tea_core"
+  }
+}

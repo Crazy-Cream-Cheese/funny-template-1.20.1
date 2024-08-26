@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "S S",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "funny:defecate"
+    }
+  },
+  "result": {
+    "count": 3,
+    "item": "funny:defecate_block"
+  }
+}

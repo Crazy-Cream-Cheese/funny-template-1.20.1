@@ -1,0 +1,12 @@
+{
+  "type": "funny:fluid_handling_machines",
+  "ingredients": [
+    {
+      "item": "funny:lemon"
+    }
+  ],
+  "output": {
+    "item": "funny:lemon_drink",
+    "count": 1
+  }
+}

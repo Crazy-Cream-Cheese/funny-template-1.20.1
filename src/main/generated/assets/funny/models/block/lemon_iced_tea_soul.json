@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "funny:block/lemon_iced_tea_soul"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "funny:item/kobe_bryant_elbow"
+  }
+}

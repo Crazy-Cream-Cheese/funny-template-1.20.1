@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "funny:item/lemon_iced_tea_sword"
+  }
+}

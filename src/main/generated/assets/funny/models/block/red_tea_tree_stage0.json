@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "funny:block/red_tea_tree_stage0"
+  }
+}

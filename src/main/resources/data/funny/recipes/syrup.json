@@ -1,0 +1,12 @@
+{
+  "type": "funny:fluid_handling_machines",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "output": {
+    "item": "funny:syrup_bucket",
+    "count": 1
+  }
+}

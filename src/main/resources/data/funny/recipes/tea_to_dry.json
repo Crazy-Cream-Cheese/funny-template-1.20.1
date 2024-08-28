@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 60,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "funny:red_tea_leave"
+  },
+  "result": "funny:dry_red_tea_leave"
+}

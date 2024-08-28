@@ -1,0 +1,42 @@
+{
+	"schemaVersion": 1,
+	"id": "funny",
+	"version": "${version}",
+	"name": "Funny",
+	"description": "&k作者&e花了&l一个暑假&r写的&o小mod,\n起初只是&n和朋友打的一个赌&6&m(他让我写史上最抽象的mod)!",
+	"authors": [
+		"笑笑"
+	],
+	"contact": {
+		"sources": "https://github.com/Crazy-Cream-Cheese/funny-template-1.20.1"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/funny/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.ccc.funny.Funny"
+		],
+		"client": [
+			"com.ccc.funny.FunnyClient"
+		],
+		"fabric-datagen": [
+			"com.ccc.funny.FunnyDataGenerator"
+		],
+		"terrablender": [
+			"com.ccc.funny.world.biome.ModTerraBlenderAPI"
+		]
+	},
+	"mixins": [
+		"funny.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": ">=0.92.0"
+	},
+	"suggests": {
+		"another-mod": "terrablender"
+	}
+}
